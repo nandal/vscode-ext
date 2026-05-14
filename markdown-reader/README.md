@@ -1,6 +1,8 @@
-# MarkDown Reader
+# MarkDown Reader - Nandal
 
 A VS Code extension that provides a beautiful, readable view for Markdown files with a simple key combination toggle.
+
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=nandal.markdown-reader)
 
 ## Features
 
@@ -20,10 +22,16 @@ A VS Code extension that provides a beautiful, readable view for Markdown files 
 
 ## Installation
 
-1. Clone or download this repository
+**From Marketplace:** Search "MarkDown Reader - Nandal" in VS Code Extensions, or install via:
+```bash
+code --install-extension nandal.markdown-reader
+```
+
+**From source:**
+1. Clone this repository
 2. Run `npm install` to install dependencies
 3. Run `npm run compile` to build the extension
-4. Open VS Code, go to Extensions, and use "Install from VSIX" or press F5 to run in development mode
+4. Press F5 to run in development mode
 
 ## Development
 
