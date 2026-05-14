@@ -6,7 +6,7 @@ A monorepo for multiple VS Code extensions.
 
 | Extension | Description |
 |-----------|-------------|
-| [markdown-reader](./markdown-reader) | View Markdown files in a beautiful readable mode |
+| [markdown-reader](./markdown-reader) | View Markdown files in a beautiful readable mode | [![Marketplace](https://img.shields.io/badge/Marketplace-nandal.markdown--reader-blue)](https://marketplace.visualstudio.com/items?itemName=nandal.markdown-reader) |
 
 ## Development
 

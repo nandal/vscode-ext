@@ -1,6 +1,6 @@
 {
   "name": "markdown-reader",
-  "displayName": "MarkDown Reader",
+  "displayName": "MarkDown Reader - Nandal",
   "description": "A VS Code extension to view Markdown files in a beautiful readable mode with a key combination toggle.",
   "publisher": "nandal",
   "author": {
