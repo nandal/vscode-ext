@@ -1,0 +1,12 @@
+{
+  "name": "vs-code-extensions-monorepo",
+  "private": true,
+  "workspaces": [
+    "markdown-reader"
+  ],
+  "scripts": {
+    "compile": "npm run compile --workspaces",
+    "lint": "npm run lint --workspaces",
+    "watch": "npm run watch --workspaces"
+  }
+}
